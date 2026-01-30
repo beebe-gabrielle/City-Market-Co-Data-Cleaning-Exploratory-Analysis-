@@ -17,7 +17,7 @@ City Market Co. is a ficticious retail company that sells various products in mu
 # Key Metrics
 
 * **Total Revenue:** Core metric, tracks gross sales and net sales over time (daily, weekly, monthly)
-* **Total Profit:** Measure of the profitability and efficiency, calculated as gross profit divided by net sales, expressed as a percentage
+* **Total Profit:** Measure of the profitability and efficiency
 * **Return Rate:** Percentage of products returned, indicating potential product or service issues
 * **Sales by Category:** Identifies top-performing products, high-margin items, and inventory velocity
 * **Customer Satisfaction Score (CSAT):** Measures the degree to which customers are happy with the products
